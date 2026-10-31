@@ -1,0 +1,9 @@
+{
+  "name": "nadimintis-classic-food",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Food ordering website for Nadiminti's Classic Food",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {}
+}
